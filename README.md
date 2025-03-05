@@ -132,8 +132,8 @@ The frontend interacts with the following backend API endpoints:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+  git clone https://github.com/Surya413413/notes-frontend.git
+  
    ```
 
 2. **Install Dependencies**:
